@@ -17,9 +17,9 @@
     "itemRightArrow": "selected.png"
   },
   "dialogConfig": {
-    "dialogOptionBackground": "#unselected_dia.png",
+    "dialogOptionBackground": "3.png",
     "dialogOptionTextColor": "#2f0d6e",
-    "dialogOptionSelectedBackground": "selected_dia.png",
+    "dialogOptionSelectedBackground": "4.png",
     "dialogOptionSelectedTextColor": "#2f0d6e",
     "dialogBackgroundColor": "#2f0d6e",
     "dialogTextColor": "#ffffff"
